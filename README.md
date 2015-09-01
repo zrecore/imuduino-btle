@@ -1,2 +1,2 @@
 # imuduino-btle
-Use https://githib.com/femtoduino/imuduino-btle instead
+Use https://github.com/femtoduino/imuduino-btle instead
